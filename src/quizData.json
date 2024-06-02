@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "options": ["Berlin", "Madrid", "Paris", "Lisbon"],
+      "correctAnswer": "Paris"
+    },
+    {
+      "question": "What is the largest planet in our Solar System?",
+      "options": ["Earth", "Jupiter", "Mars", "Venus"],
+      "correctAnswer": "Jupiter"
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "options": ["H2O", "CO2", "O2", "NaCl"],
+      "correctAnswer": "H2O"
+    },
+    {
+      "question": "Who wrote 'Hamlet'?",
+      "options": ["Charles Dickens", "J.K. Rowling", "Ernest Hemingway", "William Shakespeare"],
+      "correctAnswer": "William Shakespeare"
+    },
+    {
+      "question": "What is the smallest prime number?",
+      "options": ["0", "1", "2", "3"],
+      "correctAnswer": "2"
+    }
+  ]
+}
